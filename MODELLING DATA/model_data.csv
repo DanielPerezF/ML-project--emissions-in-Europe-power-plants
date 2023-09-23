@@ -87,7 +87,6 @@ Fossil Hard coal,151186,0.027,1.0,155364000.0,787.0,640.0,55.662,11.082,Denmark,
 Hydro Water Reservoir,216424,0.233,0.984,0.0,108.0,108.0,40.474,22.242,Greece,COMMISSIONED,1985.0,Freshwater,,,,0.211,0.014,-0.014,60.0,60.0,1.0,,1
 Fossil Oil shale,271317,0.457,0.251,277150000.0,270.0,270.0,59.273,27.896,Estonia,COMMISSIONED,,Freshwater,Once-through,137.59,0.95,0.301,0.011,-0.014,60.0,60.0,0.32,Class_derived,0
 Fossil Gas,673369,0.307,1.0,406042000.0,815.0,250.0,55.603,12.48,Denmark,COMMISSIONED,1990.0,Seawater,Once-through,43.07,0.38,0.479,0.009,-0.013,221.0,134.0,0.34,Class_derived,0
-Fossil Gas,1440463,0.291,1.0,1284020000.0,,,,,,,,,,,,0.179,0.007,-0.011,30.0,30.0,0.23,Class_derived,0
 Wind Onshore,109631,0.276,0.872,0.0,52.0,52.0,58.568,-3.677,United Kingdom,COMMISSIONED,,None,,0.0,0.0,0.052,0.014,-0.014,837.0,60.0,1.0,,1
 Fossil Gas,874578,0.64,0.3,321033000.0,552.0,520.0,51.615,-3.828,United Kingdom,COMMISSIONED,2003.0,Seawater,Mechanical Draught Tower,0.96,0.78,0.308,0.012,-0.014,152.0,76.0,0.56,OEM_derived,0
 Fossil Gas,835,0.401,0.007,440109.0,552.0,32.0,51.615,-3.828,United Kingdom,COMMISSIONED,,Seawater,Air Cooling,0.01,0.01,0.139,0.014,-0.013,86.0,105.0,0.39,OEM_derived,0
@@ -220,7 +219,6 @@ Hydro Water Reservoir,155348,0.146,1.0,0.0,2232.3,121.3,39.664,-7.533,Spain,COMM
 Hydro Water Reservoir,14717,0.014,1.0,0.0,2232.3,120.6,39.664,-7.533,Spain,COMMISSIONED,1977.0,Freshwater,,,,0.211,0.014,-0.014,60.0,60.0,1.0,,1
 Hydro Water Reservoir,49817,0.045,1.0,0.0,2232.3,127.4,39.664,-7.533,Spain,COMMISSIONED,1977.0,Freshwater,,,,0.211,0.014,-0.014,60.0,60.0,1.0,,1
 Hydro Water Reservoir,109353,0.099,1.0,0.0,2232.3,125.6,39.664,-7.533,Spain,COMMISSIONED,1977.0,Freshwater,,,,0.211,0.014,-0.014,60.0,60.0,1.0,,1
-Fossil Hard coal,2886187,,0.973,2522970000.0,,,,,,,,,,,,,,,,,1.0,,0
 Fossil Gas,181536,0.389,0.238,76925900.0,224.0,224.0,52.102,5.079,Netherlands,COMMISSIONED,1978.0,Freshwater,Once-through,43.07,0.38,0.335,0.011,-0.013,77.0,71.0,0.48,OEM_derived,0
 Fossil Gas,0,0.0,0.956,0.0,413.0,227.0,45.165,27.924,Romania,COMMISSIONED,,Freshwater,Once-through,132.48,0.91,0.268,0.008,-0.009,60.0,132.0,0.23,Class_derived,0
 Fossil Gas,0,0.0,0.956,0.0,413.0,210.0,45.165,27.924,Romania,COMMISSIONED,,Freshwater,Once-through,132.48,0.91,0.268,0.008,-0.009,60.0,132.0,0.23,Class_derived,0
@@ -373,12 +371,6 @@ Fossil Gas,2076912,0.6,0.507,790611000.0,1490.0,780.0,51.622,-1.261,United Kingd
 Fossil Gas,1086314,0.528,0.331,413524000.0,1490.0,710.0,51.622,-1.261,United Kingdom,COMMISSIONED,1997.0,Freshwater,Mechanical Draught Tower,0.96,0.78,0.308,0.012,-0.014,152.0,76.0,0.54,OEM_derived,0
 Fossil Gas,287444,0.133,0.989,121804000.0,684.0,249.0,52.339,5.02,Netherlands,COMMISSIONED,1995.0,Seawater,Once-through,132.48,0.91,0.335,0.011,-0.013,77.0,71.0,0.48,OEM_derived,0
 Fossil Gas,1989359,0.528,0.989,825787000.0,684.0,435.0,52.339,5.02,Netherlands,COMMISSIONED,2013.0,Seawater,Once-through,132.48,0.91,0.308,0.012,-0.014,152.0,76.0,0.49,emissions_15_derived,0
-Hydro Run-of-river and poundage,212404,0.3,0.24,0.0,,,,,,,,,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
-Hydro Run-of-river and poundage,170045,0.359,0.161,0.0,,,,,,,,,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
-Hydro Run-of-river and poundage,211791,0.333,0.216,0.0,,,,,,,,,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
-Hydro Run-of-river and poundage,248298,0.382,0.221,0.0,,,,,,,,,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
-Hydro Run-of-river and poundage,158922,0.275,0.197,0.0,,,,,,,,,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
-Hydro Run-of-river and poundage,496404,0.365,0.462,0.0,,,,,,,,,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
 Fossil Oil,8110,0.011,1.0,7289580.0,85.0,85.0,48.4,-4.26,France,COMMISSIONED,1899.0,Seawater,Air Cooling,0.1,0.1,0.182,0.013,-0.014,60.0,85.0,0.31,Class_derived,0
 Fossil Oil,9487,0.013,1.0,8527280.0,85.0,85.0,48.4,-4.26,France,COMMISSIONED,1899.0,Seawater,Air Cooling,0.1,0.1,0.182,0.013,-0.014,60.0,85.0,0.31,Class_derived,0
 Fossil Gas,390012,0.267,1.0,164683000.0,796.0,167.0,51.03,2.36,France,COMMISSIONED,2005.0,Seawater,Air Cooling,0.01,0.01,0.335,0.011,-0.013,77.0,71.0,0.48,OEM_derived,0
@@ -508,7 +500,6 @@ Fossil Gas,44,0.37,0.001,29176.3,34.0,17.0,53.717,-1.282,United Kingdom,decommis
 Fossil Gas,45,0.441,0.001,29839.4,34.0,17.0,53.717,-1.282,United Kingdom,decommissioned,,Freshwater,Natural Draught Tower,0.96,0.78,0.139,0.014,-0.013,86.0,105.0,0.31,Class_derived,0
 Nuclear,7030028,0.912,1.0,0.0,880.0,880.0,47.915,7.571,France,COMMISSIONED,1978.0,Freshwater,Once-through,167.87,1.02,0.498,0.009,-0.012,1694.0,342.0,1.0,,0
 Nuclear,5611484,0.728,1.0,0.0,880.0,880.0,47.915,7.571,France,COMMISSIONED,1978.0,Freshwater,Once-through,167.87,1.02,0.498,0.009,-0.012,1694.0,342.0,1.0,,0
-Hydro Run-of-river and poundage,18626,0.202,0.11,0.0,,,,,,,,,,,,0.2,0.015,-0.015,307.0,63.0,1.0,,1
 Hydro Run-of-river and poundage,2446,0.175,0.017,0.0,384.0,96.0,53.118,-4.103,United Kingdom,COMMISSIONED,1961.0,Freshwater,,,,0.2,0.015,-0.015,307.0,63.0,1.0,,1
 Hydro Run-of-river and poundage,8540,0.23,0.044,0.0,384.0,96.0,53.118,-4.103,United Kingdom,COMMISSIONED,1961.0,Freshwater,,,,0.2,0.015,-0.015,307.0,63.0,1.0,,1
 Hydro Run-of-river and poundage,50363,0.236,0.254,0.0,384.0,96.0,53.118,-4.103,United Kingdom,COMMISSIONED,1961.0,Freshwater,,,,0.2,0.015,-0.015,307.0,63.0,1.0,,1
@@ -728,7 +719,6 @@ Fossil Brown coal/Lignite,1236425,0.528,0.984,1998060000.0,272.0,272.0,40.411,21
 Fossil Brown coal/Lignite,1220404,0.523,0.984,1972170000.0,271.0,271.0,40.411,21.786,Greece,COMMISSIONED,1975.0,Freshwater,Natural Draught Tower,2.22,1.81,0.54,0.01,-0.014,363.0,198.0,0.27,emissions_15_derived,0
 Fossil Brown coal/Lignite,1642366,0.681,0.984,2559280000.0,280.0,280.0,40.411,21.786,Greece,COMMISSIONED,1981.0,Freshwater,Natural Draught Tower,2.22,1.81,0.54,0.01,-0.014,363.0,198.0,0.28,emissions_15_derived,0
 Fossil Brown coal/Lignite,1548556,0.642,0.984,2413090000.0,280.0,280.0,40.411,21.786,Greece,COMMISSIONED,1981.0,Freshwater,Natural Draught Tower,2.22,1.81,0.54,0.01,-0.014,363.0,198.0,0.28,emissions_15_derived,0
-Fossil Oil,836,,0.869,739779.0,670.0,0.0,56.153,14.836,Sweden,DECOMMISSIONED,1969.0,Seawater,Once-through,132.48,0.91,,,,,,1.0,,0
 Fossil Oil,3720,0.001,0.869,2834640.0,670.0,335.0,56.153,14.836,Sweden,RESERVE,1971.0,Seawater,Once-through,132.48,0.91,0.196,0.009,-0.013,97.0,112.0,0.36,Class_derived,0
 Fossil Oil,1354,0.001,0.869,1031750.0,670.0,335.0,56.153,14.836,Sweden,RESERVE,1973.0,Seawater,Once-through,132.48,0.91,0.196,0.009,-0.013,97.0,112.0,0.36,Class_derived,0
 Fossil Hard coal,467589,0.477,1.0,568722000.0,212.0,112.0,52.436,16.989,Poland,COMMISSIONED,1998.0,Freshwater,Mechanical Draught Tower,2.22,1.81,0.485,0.009,-0.012,151.0,83.0,0.28,Class_derived,0
@@ -862,9 +852,6 @@ Fossil Oil,8,0.114,0.0,7320.77,105.0,35.0,51.467,0.242,United Kingdom,decommissi
 Fossil Oil,1227,0.179,0.001,966876.0,1370.0,685.0,51.467,0.242,United Kingdom,decommissioned,1982.0,Freshwater,Once-through,132.48,0.91,,,,,,0.36,Class_derived,0
 Wind Offshore,353523,0.348,0.898,0.0,269.0,129.0,53.184,0.498,United Kingdom,COMMISSIONED,,None,,0.0,0.0,0.054,0.014,-0.014,11894.0,60.0,1.0,,1
 Wind Offshore,385213,0.35,0.898,0.0,269.0,140.0,53.184,0.498,United Kingdom,COMMISSIONED,,None,,0.0,0.0,0.054,0.014,-0.014,11894.0,60.0,1.0,,1
-Hydro Pumped Storage,184580,0.88,0.18,0.0,,,,,,,,,,,,0.121,0.015,-0.015,60.0,60.0,1.0,,1
-Hydro Pumped Storage,151211,0.792,0.164,0.0,,,,,,,,,,,,0.121,0.015,-0.015,60.0,60.0,1.0,,1
-Hydro Pumped Storage,228044,0.824,0.238,0.0,,,,,,,,,,,,0.121,0.015,-0.015,60.0,60.0,1.0,,1
 Fossil Hard coal,1743310,0.504,0.658,1630090000.0,2400.0,600.0,56.05,-3.681,United Kingdom,decommissioned,1972.0,Seawater,Once-through,137.59,0.95,0.28,0.011,-0.013,211.0,69.0,0.38,emissions_16_derived,0
 Fossil Hard coal,1577378,0.497,0.604,1474930000.0,2400.0,600.0,56.05,-3.681,United Kingdom,decommissioned,1972.0,Seawater,Once-through,137.59,0.95,0.28,0.011,-0.013,211.0,69.0,0.38,emissions_16_derived,0
 Fossil Hard coal,1464159,0.526,0.53,1369070000.0,2400.0,600.0,56.05,-3.681,United Kingdom,decommissioned,1972.0,Seawater,Once-through,137.59,0.95,0.28,0.011,-0.013,211.0,69.0,0.38,emissions_16_derived,0
@@ -900,7 +887,6 @@ Wind Onshore,163077,0.273,0.897,0.0,76.0,76.0,56.969,-2.486,United Kingdom,COMMI
 Fossil Gas,1009979,0.383,0.43,399252000.0,700.0,700.0,51.438,0.689,United Kingdom,COMMISSIONED,1995.0,Seawater,Mechanical Draught Tower,0.96,0.78,0.308,0.012,-0.014,152.0,76.0,0.52,OEM_derived,0
 Fossil Brown coal/Lignite,1390325,0.633,0.984,1838260000.0,255.0,255.0,37.418,22.108,Greece,COMMISSIONED,1991.0,Freshwater,Natural Draught Tower,2.22,1.81,0.54,0.01,-0.014,363.0,198.0,0.33,Class_derived,0
 Fossil Brown coal/Lignite,1201656,0.545,0.984,1588810000.0,256.0,256.0,37.416,22.067,Greece,COMMISSIONED,1991.0,Freshwater,Natural Draught Tower,2.22,1.81,0.54,0.01,-0.014,363.0,198.0,0.33,Class_derived,0
-Fossil Gas,775974,0.156,0.672,282906000.0,,,,,,,,,,,,0.308,0.012,-0.014,152.0,76.0,0.55,OEM_derived,0
 Fossil Hard coal,3131406,0.642,1.0,3053670000.0,557.2,557.2,43.078,-8.407,Spain,COMMISSIONED,1980.0,Freshwater,Natural Draught Tower,2.22,1.81,0.28,0.011,-0.013,211.0,69.0,0.34,emissions_15_derived,0
 Fossil Brown coal/Lignite,1347605,0.541,0.984,1589150000.0,289.0,289.0,40.814,21.598,Greece,COMMISSIONED,2003.0,Freshwater,Natural Draught Tower,2.4,1.87,0.54,0.01,-0.014,363.0,198.0,0.37,emissions_15_derived,0
 Hydro Run-of-river and poundage,1150228,0.71,0.989,0.0,187.0,187.0,48.223,15.304,Austria,COMMISSIONED,1982.0,Freshwater,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
@@ -1356,7 +1342,6 @@ Hydro Pumped Storage,48754,0.05,0.992,0.0,113.0,113.0,41.469,14.145,Italy,COMMIS
 Hydro Run-of-river and poundage,645354,0.614,0.992,0.0,121.0,121.0,46.493,11.334,Italy,COMMISSIONED,,Freshwater,,,,0.2,0.015,-0.015,307.0,63.0,1.0,,1
 Fossil Gas,582573,0.09,0.989,229892000.0,748.0,748.0,45.512,9.51,Italy,COMMISSIONED,2003.0,Freshwater,Air Cooling,0.01,0.01,0.308,0.012,-0.014,152.0,76.0,0.52,OEM_derived,0
 Fossil Gas,790969,0.116,0.992,312129000.0,787.0,787.0,41.58,12.657,Italy,COMMISSIONED,2012.0,Freshwater,Air Cooling,0.01,0.01,0.308,0.012,-0.014,152.0,76.0,0.52,emissions_16_derived,0
-Fossil Gas,365129,0.056,0.992,144086000.0,,,,,,,,,,,,0.195,0.011,-0.012,60.0,60.0,0.52,OEM_derived,0
 Hydro Water Reservoir,272712,0.143,0.992,0.0,220.0,220.0,45.942,10.64,Italy,COMMISSIONED,,Freshwater,,,,0.124,0.014,-0.014,60.0,60.0,1.0,,1
 Fossil Gas,185132,0.052,0.992,71677500.0,821.0,410.0,39.102,17.116,Italy,COMMISSIONED,2010.0,Freshwater,Air Cooling,0.01,0.01,0.308,0.012,-0.014,152.0,76.0,0.53,OEM_derived,0
 Fossil Gas,433864,0.121,0.992,167979000.0,821.0,411.0,39.102,17.116,Italy,COMMISSIONED,2010.0,Freshwater,Air Cooling,0.01,0.01,0.308,0.012,-0.014,152.0,76.0,0.53,OEM_derived,0
@@ -1711,7 +1696,6 @@ Fossil Hard coal,322726,0.057,1.0,331645000.0,787.0,640.0,55.662,11.082,Denmark,
 Hydro Water Reservoir,155595,0.169,0.97,0.0,108.0,108.0,40.474,22.242,Greece,COMMISSIONED,1985.0,Freshwater,,,,0.211,0.014,-0.014,60.0,60.0,1.0,,1
 Fossil Oil shale,1134143,0.479,0.998,1158530000.0,270.0,270.0,59.273,27.896,Estonia,COMMISSIONED,,Freshwater,Once-through,137.59,0.95,0.301,0.011,-0.014,60.0,60.0,0.32,Class_derived,0
 Fossil Gas,519947,0.237,1.0,313528000.0,815.0,250.0,55.603,12.48,Denmark,COMMISSIONED,1990.0,Seawater,Once-through,43.07,0.38,0.479,0.009,-0.013,221.0,134.0,0.34,Class_derived,0
-Fossil Gas,1509665,0.304,1.0,1345700000.0,,,,,,,,,,,,0.179,0.007,-0.011,30.0,30.0,0.23,Class_derived,0
 Wind Onshore,123307,0.333,0.811,0.0,52.0,52.0,58.568,-3.677,United Kingdom,COMMISSIONED,,None,,0.0,0.0,0.052,0.014,-0.014,837.0,60.0,1.0,,1
 Fossil Gas,2163939,0.746,0.635,794320000.0,552.0,520.0,51.615,-3.828,United Kingdom,COMMISSIONED,2003.0,Seawater,Mechanical Draught Tower,0.96,0.78,0.308,0.012,-0.014,152.0,76.0,0.56,OEM_derived,0
 Fossil Gas,1423,0.585,0.009,750030.0,552.0,32.0,51.615,-3.828,United Kingdom,COMMISSIONED,,Seawater,Air Cooling,0.01,0.01,0.139,0.014,-0.013,86.0,105.0,0.39,OEM_derived,0
@@ -1999,12 +1983,6 @@ Fossil Gas,3403653,0.805,0.617,1295660000.0,1490.0,780.0,51.622,-1.261,United Ki
 Fossil Gas,2196992,0.734,0.48,836322000.0,1490.0,710.0,51.622,-1.261,United Kingdom,COMMISSIONED,1997.0,Freshwater,Mechanical Draught Tower,0.96,0.78,0.308,0.012,-0.014,152.0,76.0,0.54,OEM_derived,0
 Fossil Gas,208492,0.095,1.0,88348500.0,684.0,249.0,52.339,5.02,Netherlands,COMMISSIONED,1995.0,Seawater,Once-through,132.48,0.91,0.335,0.011,-0.013,77.0,71.0,0.48,OEM_derived,0
 Fossil Gas,2200624,0.576,1.0,913484000.0,684.0,435.0,52.339,5.02,Netherlands,COMMISSIONED,2013.0,Seawater,Once-through,132.48,0.91,0.308,0.012,-0.014,152.0,76.0,0.49,emissions_15_derived,0
-Hydro Run-of-river and poundage,228272,0.489,0.158,0.0,,,,,,,,,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
-Hydro Run-of-river and poundage,588287,0.49,0.407,0.0,,,,,,,,,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
-Hydro Run-of-river and poundage,199066,0.608,0.111,0.0,,,,,,,,,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
-Hydro Run-of-river and poundage,251361,0.477,0.179,0.0,,,,,,,,,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
-Hydro Run-of-river and poundage,182034,0.423,0.146,0.0,,,,,,,,,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
-Hydro Run-of-river and poundage,729461,0.485,0.51,0.0,,,,,,,,,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
 Fossil Oil,7935,0.011,0.997,7132280.0,85.0,85.0,48.4,-4.26,France,COMMISSIONED,1899.0,Seawater,Air Cooling,0.1,0.1,0.182,0.013,-0.014,60.0,85.0,0.31,Class_derived,0
 Fossil Oil,10243,0.014,0.997,9206800.0,85.0,85.0,48.4,-4.26,France,COMMISSIONED,1899.0,Seawater,Air Cooling,0.1,0.1,0.182,0.013,-0.014,60.0,85.0,0.31,Class_derived,0
 Fossil Gas,302520,0.207,0.997,127739000.0,796.0,167.0,51.03,2.36,France,COMMISSIONED,2005.0,Seawater,Air Cooling,0.01,0.01,0.335,0.011,-0.013,77.0,71.0,0.48,OEM_derived,0
@@ -2131,7 +2109,6 @@ Fossil Hard coal,0,0.0,0.0,0.0,1960.0,490.0,53.717,-1.282,United Kingdom,decommi
 Fossil Hard coal,787627,0.938,0.195,717589000.0,1960.0,490.0,53.717,-1.282,United Kingdom,decommissioned,1966.0,Freshwater,Natural Draught Tower,2.22,1.81,0.28,0.011,-0.013,211.0,69.0,0.39,emissions_16_derived,0
 Nuclear,4850643,0.63,0.996,0.0,880.0,880.0,47.915,7.571,France,COMMISSIONED,1978.0,Freshwater,Once-through,167.87,1.02,0.498,0.009,-0.012,1694.0,342.0,1.0,,0
 Nuclear,3390848,0.44,0.996,0.0,880.0,880.0,47.915,7.571,France,COMMISSIONED,1978.0,Freshwater,Once-through,167.87,1.02,0.498,0.009,-0.012,1694.0,342.0,1.0,,0
-Hydro Run-of-river and poundage,27299,0.458,0.071,0.0,,,,,,,,,,,,0.2,0.015,-0.015,307.0,63.0,1.0,,1
 Hydro Run-of-river and poundage,52101,0.331,0.187,0.0,384.0,96.0,53.118,-4.103,United Kingdom,COMMISSIONED,1961.0,Freshwater,,,,0.2,0.015,-0.015,307.0,63.0,1.0,,1
 Hydro Run-of-river and poundage,41443,0.368,0.134,0.0,384.0,96.0,53.118,-4.103,United Kingdom,COMMISSIONED,1961.0,Freshwater,,,,0.2,0.015,-0.015,307.0,63.0,1.0,,1
 Hydro Run-of-river and poundage,51906,0.332,0.185,0.0,384.0,96.0,53.118,-4.103,United Kingdom,COMMISSIONED,1961.0,Freshwater,,,,0.2,0.015,-0.015,307.0,63.0,1.0,,1
@@ -2348,7 +2325,6 @@ Fossil Brown coal/Lignite,959034,0.413,0.973,1549800000.0,272.0,272.0,40.411,21.
 Fossil Brown coal/Lignite,762697,0.329,0.973,1232520000.0,271.0,271.0,40.411,21.786,Greece,COMMISSIONED,1975.0,Freshwater,Natural Draught Tower,2.22,1.81,0.54,0.01,-0.014,363.0,198.0,0.27,emissions_15_derived,0
 Fossil Brown coal/Lignite,841040,0.352,0.973,1310580000.0,280.0,280.0,40.411,21.786,Greece,COMMISSIONED,1981.0,Freshwater,Natural Draught Tower,2.22,1.81,0.54,0.01,-0.014,363.0,198.0,0.28,emissions_15_derived,0
 Fossil Brown coal/Lignite,968241,0.405,0.973,1508800000.0,280.0,280.0,40.411,21.786,Greece,COMMISSIONED,1981.0,Freshwater,Natural Draught Tower,2.22,1.81,0.54,0.01,-0.014,363.0,198.0,0.28,emissions_15_derived,0
-Fossil Oil,1157,,0.997,1023830.0,670.0,0.0,56.153,14.836,Sweden,DECOMMISSIONED,1969.0,Seawater,Once-through,132.48,0.91,,,,,,1.0,,0
 Fossil Oil,6133,0.002,0.997,4673350.0,670.0,335.0,56.153,14.836,Sweden,RESERVE,1971.0,Seawater,Once-through,132.48,0.91,0.196,0.009,-0.013,97.0,112.0,0.36,Class_derived,0
 Fossil Oil,6694,0.002,0.997,5100830.0,670.0,335.0,56.153,14.836,Sweden,RESERVE,1973.0,Seawater,Once-through,132.48,0.91,0.196,0.009,-0.013,97.0,112.0,0.36,Class_derived,0
 Fossil Hard coal,92844,0.655,0.161,112925000.0,212.0,100.0,52.436,16.989,Poland,COMMISSIONED,1991.0,Freshwater,Mechanical Draught Tower,2.22,1.81,0.485,0.009,-0.012,151.0,83.0,0.28,Class_derived,0
@@ -2515,7 +2491,6 @@ Wind Onshore,182126,0.324,0.842,0.0,76.0,76.0,56.969,-2.486,United Kingdom,COMMI
 Fossil Gas,2354167,0.783,0.489,930620000.0,700.0,700.0,51.438,0.689,United Kingdom,COMMISSIONED,1995.0,Seawater,Mechanical Draught Tower,0.96,0.78,0.308,0.012,-0.014,152.0,76.0,0.52,OEM_derived,0
 Fossil Brown coal/Lignite,1089148,0.5,0.973,1440050000.0,255.0,255.0,37.418,22.108,Greece,COMMISSIONED,1991.0,Freshwater,Natural Draught Tower,2.22,1.81,0.54,0.01,-0.014,363.0,198.0,0.33,Class_derived,0
 Fossil Brown coal/Lignite,1259091,0.574,0.976,1664750000.0,256.0,256.0,37.416,22.067,Greece,COMMISSIONED,1991.0,Freshwater,Natural Draught Tower,2.22,1.81,0.54,0.01,-0.014,363.0,198.0,0.33,Class_derived,0
-Fossil Gas,1155026,0.16,0.973,421101000.0,,,,,,,,,,,,0.308,0.012,-0.014,152.0,76.0,0.55,OEM_derived,0
 Fossil Hard coal,2319937,0.475,0.997,2262350000.0,557.2,557.2,43.078,-8.407,Spain,COMMISSIONED,1980.0,Freshwater,Natural Draught Tower,2.22,1.81,0.28,0.011,-0.013,211.0,69.0,0.34,emissions_15_derived,0
 Fossil Brown coal/Lignite,1260051,0.51,0.973,1485910000.0,289.0,289.0,40.814,21.598,Greece,COMMISSIONED,2003.0,Freshwater,Natural Draught Tower,2.4,1.87,0.54,0.01,-0.014,363.0,198.0,0.37,emissions_15_derived,0
 Hydro Run-of-river and poundage,1262875,0.769,1.0,0.0,187.0,187.0,48.223,15.304,Austria,COMMISSIONED,1982.0,Freshwater,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
@@ -2971,7 +2946,6 @@ Hydro Pumped Storage,36930,0.037,1.0,0.0,113.0,113.0,41.469,14.145,Italy,COMMISS
 Hydro Run-of-river and poundage,623897,0.589,0.997,0.0,121.0,121.0,46.493,11.334,Italy,COMMISSIONED,,Freshwater,,,,0.2,0.015,-0.015,307.0,63.0,1.0,,1
 Fossil Gas,760401,0.116,1.0,300066000.0,748.0,748.0,45.512,9.51,Italy,COMMISSIONED,2003.0,Freshwater,Air Cooling,0.01,0.01,0.308,0.012,-0.014,152.0,76.0,0.52,OEM_derived,0
 Fossil Gas,1435745,0.208,1.0,566567000.0,787.0,787.0,41.58,12.657,Italy,COMMISSIONED,2012.0,Freshwater,Air Cooling,0.01,0.01,0.308,0.012,-0.014,152.0,76.0,0.52,emissions_16_derived,0
-Fossil Gas,946311,0.143,1.0,373429000.0,,,,,,,,,,,,0.195,0.011,-0.012,60.0,60.0,0.52,OEM_derived,0
 Hydro Water Reservoir,248773,0.129,1.0,0.0,220.0,220.0,45.942,10.64,Italy,COMMISSIONED,,Freshwater,,,,0.124,0.014,-0.014,60.0,60.0,1.0,,1
 Fossil Gas,577611,0.16,1.0,223634000.0,821.0,410.0,39.102,17.116,Italy,COMMISSIONED,2010.0,Freshwater,Air Cooling,0.01,0.01,0.308,0.012,-0.014,152.0,76.0,0.53,OEM_derived,0
 Fossil Gas,1553811,0.43,1.0,601589000.0,821.0,411.0,39.102,17.116,Italy,COMMISSIONED,2010.0,Freshwater,Air Cooling,0.01,0.01,0.308,0.012,-0.014,152.0,76.0,0.53,OEM_derived,0
@@ -3294,7 +3268,6 @@ Fossil Hard coal,543017,0.097,1.0,558024000.0,787.0,640.0,55.662,11.082,Denmark,
 Hydro Water Reservoir,123168,0.132,0.986,0.0,108.0,108.0,40.474,22.242,Greece,COMMISSIONED,1985.0,Freshwater,,,,0.211,0.014,-0.014,60.0,60.0,1.0,,1
 Fossil Oil shale,1442216,0.611,0.999,1473220000.0,270.0,270.0,59.273,27.896,Estonia,COMMISSIONED,,Freshwater,Once-through,137.59,0.95,0.301,0.011,-0.014,60.0,60.0,0.32,Class_derived,0
 Fossil Gas,834378,0.381,1.0,503130000.0,815.0,250.0,55.603,12.48,Denmark,COMMISSIONED,1990.0,Seawater,Once-through,43.07,0.38,0.479,0.009,-0.013,221.0,134.0,0.34,Class_derived,0
-Fossil Gas,1332303,0.269,1.0,1187600000.0,,,,,,,,,,,,0.179,0.007,-0.011,30.0,30.0,0.23,Class_derived,0
 Wind Onshore,148043,0.373,0.87,0.0,52.0,52.0,58.568,-3.677,United Kingdom,COMMISSIONED,,None,,0.0,0.0,0.052,0.014,-0.014,837.0,60.0,1.0,,1
 Fossil Gas,1391054,0.776,0.394,510616000.0,552.0,520.0,51.615,-3.828,United Kingdom,COMMISSIONED,2003.0,Seawater,Mechanical Draught Tower,0.96,0.78,0.308,0.012,-0.014,152.0,76.0,0.56,OEM_derived,0
 Fossil Gas,1652,0.653,0.009,870731.0,552.0,32.0,51.615,-3.828,United Kingdom,COMMISSIONED,,Seawater,Air Cooling,0.01,0.01,0.139,0.014,-0.013,86.0,105.0,0.39,OEM_derived,0
@@ -3433,7 +3406,6 @@ Hydro Water Reservoir,101180,0.095,1.0,0.0,2232.3,121.3,39.664,-7.533,Spain,COMM
 Hydro Water Reservoir,5488,0.005,1.0,0.0,2232.3,120.6,39.664,-7.533,Spain,COMMISSIONED,1977.0,Freshwater,,,,0.211,0.014,-0.014,60.0,60.0,1.0,,1
 Hydro Water Reservoir,122067,0.109,1.0,0.0,2232.3,127.4,39.664,-7.533,Spain,COMMISSIONED,1977.0,Freshwater,,,,0.211,0.014,-0.014,60.0,60.0,1.0,,1
 Hydro Water Reservoir,65779,0.06,1.0,0.0,2232.3,125.6,39.664,-7.533,Spain,COMMISSIONED,1977.0,Freshwater,,,,0.211,0.014,-0.014,60.0,60.0,1.0,,1
-Fossil Hard coal,0,,0.587,0.0,,,,,,,,,,,,,,,,,1.0,,0
 Fossil Gas,0,0.0,0.983,0.0,413.0,227.0,45.165,27.924,Romania,COMMISSIONED,,Freshwater,Once-through,132.48,0.91,0.268,0.008,-0.009,60.0,132.0,0.23,Class_derived,0
 Fossil Gas,0,0.0,0.983,0.0,413.0,210.0,45.165,27.924,Romania,COMMISSIONED,,Freshwater,Once-through,132.48,0.91,0.268,0.008,-0.009,60.0,132.0,0.23,Class_derived,0
 Fossil Gas,118904,0.141,0.983,77464000.0,220.0,98.0,44.864,26.019,Romania,COMMISSIONED,,Freshwater,Mechanical Draught Tower,0.96,0.78,0.139,0.014,-0.013,86.0,105.0,0.31,Class_derived,0
@@ -3585,12 +3557,6 @@ Fossil Gas,3692596,0.822,0.658,1405650000.0,1490.0,780.0,51.622,-1.261,United Ki
 Fossil Gas,2750978,0.765,0.578,1047210000.0,1490.0,710.0,51.622,-1.261,United Kingdom,COMMISSIONED,1997.0,Freshwater,Mechanical Draught Tower,0.96,0.78,0.308,0.012,-0.014,152.0,76.0,0.54,OEM_derived,0
 Fossil Gas,361006,0.166,1.0,152976000.0,684.0,249.0,52.339,5.02,Netherlands,COMMISSIONED,1995.0,Seawater,Once-through,132.48,0.91,0.335,0.011,-0.013,77.0,71.0,0.48,OEM_derived,0
 Fossil Gas,2269994,0.596,1.0,942279000.0,684.0,435.0,52.339,5.02,Netherlands,COMMISSIONED,2013.0,Seawater,Once-through,132.48,0.91,0.308,0.012,-0.014,152.0,76.0,0.49,emissions_15_derived,0
-Hydro Run-of-river and poundage,482789,0.48,0.342,0.0,,,,,,,,,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
-Hydro Run-of-river and poundage,509461,0.489,0.354,0.0,,,,,,,,,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
-Hydro Run-of-river and poundage,269626,0.583,0.157,0.0,,,,,,,,,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
-Hydro Run-of-river and poundage,157938,0.442,0.121,0.0,,,,,,,,,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
-Hydro Run-of-river and poundage,467187,0.479,0.332,0.0,,,,,,,,,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
-Hydro Run-of-river and poundage,225672,0.46,0.167,0.0,,,,,,,,,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
 Fossil Oil,13122,0.018,0.998,11794600.0,85.0,85.0,48.4,-4.26,France,COMMISSIONED,1899.0,Seawater,Air Cooling,0.1,0.1,0.182,0.013,-0.014,60.0,85.0,0.31,Class_derived,0
 Fossil Oil,16667,0.022,0.998,14980900.0,85.0,85.0,48.4,-4.26,France,COMMISSIONED,1899.0,Seawater,Air Cooling,0.1,0.1,0.182,0.013,-0.014,60.0,85.0,0.31,Class_derived,0
 Fossil Gas,774075,0.537,0.986,326853000.0,796.0,167.0,51.03,2.36,France,COMMISSIONED,2005.0,Seawater,Air Cooling,0.01,0.01,0.335,0.011,-0.013,77.0,71.0,0.48,OEM_derived,0
@@ -3708,7 +3674,6 @@ Wind Onshore,16841,0.443,0.044,0.0,99.0,99.0,52.757,0.448,United Kingdom,COMMISS
 Fossil Gas,188936,0.144,0.834,90320200.0,180.0,180.0,54.417,-3.489,United Kingdom,COMMISSIONED,1899.0,Seawater,Once-through,43.07,0.38,0.335,0.011,-0.013,77.0,71.0,0.43,OEM_derived,0
 Nuclear,5709948,0.743,0.997,0.0,880.0,880.0,47.915,7.571,France,COMMISSIONED,1978.0,Freshwater,Once-through,167.87,1.02,0.498,0.009,-0.012,1694.0,342.0,1.0,,0
 Nuclear,0,0.0,0.997,0.0,880.0,880.0,47.915,7.571,France,COMMISSIONED,1978.0,Freshwater,Once-through,167.87,1.02,0.498,0.009,-0.012,1694.0,342.0,1.0,,0
-Hydro Run-of-river and poundage,19902,0.686,0.035,0.0,,,,,,,,,,,,0.2,0.015,-0.015,307.0,63.0,1.0,,1
 Hydro Run-of-river and poundage,56781,0.318,0.212,0.0,384.0,96.0,53.118,-4.103,United Kingdom,COMMISSIONED,1961.0,Freshwater,,,,0.2,0.015,-0.015,307.0,63.0,1.0,,1
 Hydro Run-of-river and poundage,26673,0.359,0.088,0.0,384.0,96.0,53.118,-4.103,United Kingdom,COMMISSIONED,1961.0,Freshwater,,,,0.2,0.015,-0.015,307.0,63.0,1.0,,1
 Hydro Run-of-river and poundage,56731,0.39,0.173,0.0,384.0,96.0,53.118,-4.103,United Kingdom,COMMISSIONED,1961.0,Freshwater,,,,0.2,0.015,-0.015,307.0,63.0,1.0,,1
@@ -3919,7 +3884,6 @@ Fossil Brown coal/Lignite,1091210,0.464,0.986,1763400000.0,272.0,272.0,40.411,21
 Fossil Brown coal/Lignite,1216505,0.52,0.986,1965870000.0,271.0,271.0,40.411,21.786,Greece,COMMISSIONED,1975.0,Freshwater,Natural Draught Tower,2.22,1.81,0.54,0.01,-0.014,363.0,198.0,0.27,emissions_15_derived,0
 Fossil Brown coal/Lignite,1205783,0.498,0.986,1878950000.0,280.0,280.0,40.411,21.786,Greece,COMMISSIONED,1981.0,Freshwater,Natural Draught Tower,2.22,1.81,0.54,0.01,-0.014,363.0,198.0,0.28,emissions_15_derived,0
 Fossil Brown coal/Lignite,475184,0.196,0.986,740472000.0,280.0,280.0,40.411,21.786,Greece,COMMISSIONED,1981.0,Freshwater,Natural Draught Tower,2.22,1.81,0.54,0.01,-0.014,363.0,198.0,0.28,emissions_15_derived,0
-Fossil Oil,1038,,1.0,918530.0,670.0,0.0,56.153,14.836,Sweden,DECOMMISSIONED,1969.0,Seawater,Once-through,132.48,0.91,,,,,,1.0,,0
 Fossil Oil,5130,0.002,1.0,3909060.0,670.0,335.0,56.153,14.836,Sweden,RESERVE,1971.0,Seawater,Once-through,132.48,0.91,0.196,0.009,-0.013,97.0,112.0,0.36,Class_derived,0
 Fossil Oil,1624,0.001,1.0,1237490.0,670.0,335.0,56.153,14.836,Sweden,RESERVE,1973.0,Seawater,Once-through,132.48,0.91,0.196,0.009,-0.013,97.0,112.0,0.36,Class_derived,0
 Fossil Hard coal,411340,0.493,0.953,500307000.0,212.0,100.0,52.436,16.989,Poland,COMMISSIONED,1991.0,Freshwater,Mechanical Draught Tower,2.22,1.81,0.485,0.009,-0.012,151.0,83.0,0.28,Class_derived,0
@@ -4070,7 +4034,6 @@ Wind Onshore,202012,0.336,0.904,0.0,76.0,76.0,56.969,-2.486,United Kingdom,COMMI
 Fossil Gas,2309582,0.701,0.537,912996000.0,700.0,700.0,51.438,0.689,United Kingdom,COMMISSIONED,1995.0,Seawater,Mechanical Draught Tower,0.96,0.78,0.308,0.012,-0.014,152.0,76.0,0.52,OEM_derived,0
 Fossil Brown coal/Lignite,1541171,0.7,0.986,2037710000.0,255.0,255.0,37.418,22.108,Greece,COMMISSIONED,1991.0,Freshwater,Natural Draught Tower,2.22,1.81,0.54,0.01,-0.014,363.0,198.0,0.33,Class_derived,0
 Fossil Brown coal/Lignite,1362783,0.616,0.986,1801850000.0,256.0,256.0,37.416,22.067,Greece,COMMISSIONED,1991.0,Freshwater,Natural Draught Tower,2.22,1.81,0.54,0.01,-0.014,363.0,198.0,0.33,Class_derived,0
-Fossil Gas,1421019,0.195,0.986,518078000.0,,,,,,,,,,,,0.308,0.012,-0.014,152.0,76.0,0.55,OEM_derived,0
 Fossil Hard coal,2476670,0.507,1.0,2415190000.0,557.2,557.2,43.078,-8.407,Spain,COMMISSIONED,1980.0,Freshwater,Natural Draught Tower,2.22,1.81,0.28,0.011,-0.013,211.0,69.0,0.34,emissions_15_derived,0
 Fossil Brown coal/Lignite,1803314,0.722,0.986,2126550000.0,289.0,289.0,40.814,21.598,Greece,COMMISSIONED,2003.0,Freshwater,Natural Draught Tower,2.4,1.87,0.54,0.01,-0.014,363.0,198.0,0.37,emissions_15_derived,0
 Hydro Run-of-river and poundage,1277047,0.78,1.0,0.0,187.0,187.0,48.223,15.304,Austria,COMMISSIONED,1982.0,Freshwater,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
@@ -4515,7 +4478,6 @@ Hydro Pumped Storage,29972,0.03,0.997,0.0,113.0,113.0,41.469,14.145,Italy,COMMIS
 Hydro Run-of-river and poundage,585195,0.554,0.997,0.0,121.0,121.0,46.493,11.334,Italy,COMMISSIONED,,Freshwater,,,,0.2,0.015,-0.015,307.0,63.0,1.0,,1
 Fossil Gas,1547044,0.237,0.997,610487000.0,748.0,748.0,45.512,9.51,Italy,COMMISSIONED,2003.0,Freshwater,Air Cooling,0.01,0.01,0.308,0.012,-0.014,152.0,76.0,0.52,OEM_derived,0
 Fossil Gas,1764636,0.257,0.997,696353000.0,787.0,787.0,41.58,12.657,Italy,COMMISSIONED,2012.0,Freshwater,Air Cooling,0.01,0.01,0.308,0.012,-0.014,152.0,76.0,0.52,emissions_16_derived,0
-Fossil Gas,1489798,0.226,0.997,587897000.0,,,,,,,,,,,,0.195,0.011,-0.012,60.0,60.0,0.52,OEM_derived,0
 Hydro Water Reservoir,272861,0.142,0.997,0.0,220.0,220.0,45.942,10.64,Italy,COMMISSIONED,,Freshwater,,,,0.124,0.014,-0.014,60.0,60.0,1.0,,1
 Fossil Gas,598468,0.167,0.997,231709000.0,821.0,410.0,39.102,17.116,Italy,COMMISSIONED,2010.0,Freshwater,Air Cooling,0.01,0.01,0.308,0.012,-0.014,152.0,76.0,0.53,OEM_derived,0
 Fossil Gas,1418560,0.395,0.997,549224000.0,821.0,411.0,39.102,17.116,Italy,COMMISSIONED,2010.0,Freshwater,Air Cooling,0.01,0.01,0.308,0.012,-0.014,152.0,76.0,0.53,OEM_derived,0
@@ -4837,7 +4799,6 @@ Fossil Hard coal,550945,0.098,1.0,566171000.0,787.0,640.0,55.662,11.082,Denmark,
 Hydro Water Reservoir,169094,0.179,0.997,0.0,108.0,108.0,40.474,22.242,Greece,COMMISSIONED,1985.0,Freshwater,,,,0.211,0.014,-0.014,60.0,60.0,1.0,,1
 Fossil Oil shale,1458085,0.674,0.914,1489430000.0,270.0,270.0,59.273,27.896,Estonia,COMMISSIONED,,Freshwater,Once-through,137.59,0.95,0.301,0.011,-0.014,60.0,60.0,0.32,Class_derived,0
 Fossil Gas,647016,0.295,1.0,390151000.0,815.0,250.0,55.603,12.48,Denmark,COMMISSIONED,1990.0,Seawater,Once-through,43.07,0.38,0.479,0.009,-0.013,221.0,134.0,0.34,Class_derived,0
-Fossil Gas,1378600,0.279,1.0,1228870000.0,,,,,,,,,,,,0.179,0.007,-0.011,30.0,30.0,0.23,Class_derived,0
 Wind Onshore,112559,0.356,0.694,0.0,52.0,52.0,58.568,-3.677,United Kingdom,COMMISSIONED,,None,,0.0,0.0,0.052,0.014,-0.014,837.0,60.0,1.0,,1
 Fossil Gas,714423,0.722,0.217,262244000.0,552.0,520.0,51.615,-3.828,United Kingdom,COMMISSIONED,2003.0,Seawater,Mechanical Draught Tower,0.96,0.78,0.308,0.012,-0.014,152.0,76.0,0.56,OEM_derived,0
 Fossil Gas,464,0.5,0.003,244564.0,552.0,32.0,51.615,-3.828,United Kingdom,COMMISSIONED,,Seawater,Air Cooling,0.01,0.01,0.139,0.014,-0.013,86.0,105.0,0.39,OEM_derived,0
@@ -4983,7 +4944,6 @@ Hydro Water Reservoir,534843,0.218,0.915,0.0,306.0,306.0,46.35,8.967,Switzerland
 Hydro Water Reservoir,257004,0.297,0.915,0.0,547.0,108.0,46.35,8.6,Switzerland,COMMISSIONED,,Freshwater,,,,0.211,0.014,-0.014,60.0,60.0,1.0,,1
 Hydro Water Reservoir,107452,0.076,0.915,0.0,547.0,176.0,46.464,8.546,Switzerland,COMMISSIONED,,Freshwater,,,,0.124,0.014,-0.014,60.0,60.0,1.0,,1
 Hydro Water Reservoir,406117,0.412,0.915,0.0,547.0,123.0,46.176,8.684,Switzerland,COMMISSIONED,,Freshwater,,,,0.211,0.014,-0.014,60.0,60.0,1.0,,1
-Fossil Hard coal,0,,0.97,0.0,,,,,,,,,,,,,,,,,1.0,,0
 Fossil Gas,0,0.0,0.997,0.0,413.0,227.0,45.165,27.924,Romania,COMMISSIONED,,Freshwater,Once-through,132.48,0.91,0.268,0.008,-0.009,60.0,132.0,0.23,Class_derived,0
 Fossil Gas,0,0.0,0.997,0.0,413.0,210.0,45.165,27.924,Romania,COMMISSIONED,,Freshwater,Once-through,132.48,0.91,0.268,0.008,-0.009,60.0,132.0,0.23,Class_derived,0
 Fossil Gas,200323,0.234,0.997,130507000.0,220.0,98.0,44.864,26.019,Romania,COMMISSIONED,,Freshwater,Mechanical Draught Tower,0.96,0.78,0.139,0.014,-0.013,86.0,105.0,0.31,Class_derived,0
@@ -5134,12 +5094,6 @@ Fossil Gas,2914269,0.808,0.528,1109360000.0,1490.0,780.0,51.622,-1.261,United Ki
 Fossil Gas,2228098,0.766,0.468,848163000.0,1490.0,710.0,51.622,-1.261,United Kingdom,COMMISSIONED,1997.0,Freshwater,Mechanical Draught Tower,0.96,0.78,0.308,0.012,-0.014,152.0,76.0,0.54,OEM_derived,0
 Fossil Gas,541227,0.248,1.0,229345000.0,684.0,249.0,52.339,5.02,Netherlands,COMMISSIONED,1995.0,Seawater,Once-through,132.48,0.91,0.335,0.011,-0.013,77.0,71.0,0.48,OEM_derived,0
 Fossil Gas,2533330,0.665,1.0,1051590000.0,684.0,435.0,52.339,5.02,Netherlands,COMMISSIONED,2013.0,Seawater,Once-through,132.48,0.91,0.308,0.012,-0.014,152.0,76.0,0.49,emissions_15_derived,0
-Hydro Run-of-river and poundage,362995,0.34,0.362,0.0,,,,,,,,,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
-Hydro Run-of-river and poundage,158373,0.24,0.224,0.0,,,,,,,,,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
-Hydro Run-of-river and poundage,321808,0.317,0.345,0.0,,,,,,,,,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
-Hydro Run-of-river and poundage,88849,0.19,0.159,0.0,,,,,,,,,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
-Hydro Run-of-river and poundage,297841,0.321,0.315,0.0,,,,,,,,,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
-Hydro Run-of-river and poundage,305334,0.302,0.343,0.0,,,,,,,,,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
 Fossil Oil,11983,0.016,0.998,10770800.0,85.0,85.0,48.4,-4.26,France,COMMISSIONED,1899.0,Seawater,Air Cooling,0.1,0.1,0.182,0.013,-0.014,60.0,85.0,0.31,Class_derived,0
 Fossil Oil,12261,0.017,0.998,11020700.0,85.0,85.0,48.4,-4.26,France,COMMISSIONED,1899.0,Seawater,Air Cooling,0.1,0.1,0.182,0.013,-0.014,60.0,85.0,0.31,Class_derived,0
 Fossil Gas,498966,0.393,0.868,210688000.0,796.0,167.0,51.03,2.36,France,COMMISSIONED,2005.0,Seawater,Air Cooling,0.01,0.01,0.335,0.011,-0.013,77.0,71.0,0.48,OEM_derived,0
@@ -5261,7 +5215,6 @@ Wind Onshore,9257,0.35,0.031,0.0,99.0,99.0,52.757,0.448,United Kingdom,COMMISSIO
 Fossil Gas,105060,0.138,0.484,50223600.0,180.0,180.0,54.417,-3.489,United Kingdom,COMMISSIONED,1899.0,Seawater,Once-through,43.07,0.38,0.335,0.011,-0.013,77.0,71.0,0.43,OEM_derived,0
 Nuclear,6930990,0.901,0.998,0.0,880.0,880.0,47.915,7.571,France,COMMISSIONED,1978.0,Freshwater,Once-through,167.87,1.02,0.498,0.009,-0.012,1694.0,342.0,1.0,,0
 Nuclear,4852441,0.631,0.998,0.0,880.0,880.0,47.915,7.571,France,COMMISSIONED,1978.0,Freshwater,Once-through,167.87,1.02,0.498,0.009,-0.012,1694.0,342.0,1.0,,0
-Hydro Run-of-river and poundage,18005,0.119,0.181,0.0,,,,,,,,,,,,0.2,0.015,-0.015,307.0,63.0,1.0,,1
 Hydro Run-of-river and poundage,39393,0.172,0.272,0.0,384.0,96.0,53.118,-4.103,United Kingdom,COMMISSIONED,1961.0,Freshwater,,,,0.2,0.015,-0.015,307.0,63.0,1.0,,1
 Hydro Run-of-river and poundage,24690,0.169,0.174,0.0,384.0,96.0,53.118,-4.103,United Kingdom,COMMISSIONED,1961.0,Freshwater,,,,0.2,0.015,-0.015,307.0,63.0,1.0,,1
 Hydro Run-of-river and poundage,15982,0.281,0.068,0.0,384.0,96.0,53.118,-4.103,United Kingdom,COMMISSIONED,1961.0,Freshwater,,,,0.2,0.015,-0.015,307.0,63.0,1.0,,1
@@ -5466,7 +5419,6 @@ Fossil Brown coal/Lignite,713764,0.3,0.997,1153440000.0,272.0,272.0,40.411,21.78
 Fossil Brown coal/Lignite,853942,0.361,0.997,1379970000.0,271.0,271.0,40.411,21.786,Greece,COMMISSIONED,1975.0,Freshwater,Natural Draught Tower,2.22,1.81,0.54,0.01,-0.014,363.0,198.0,0.27,emissions_15_derived,0
 Fossil Brown coal/Lignite,930671,0.38,0.997,1450250000.0,280.0,280.0,40.411,21.786,Greece,COMMISSIONED,1981.0,Freshwater,Natural Draught Tower,2.22,1.81,0.54,0.01,-0.014,363.0,198.0,0.28,emissions_15_derived,0
 Fossil Brown coal/Lignite,1117085,0.457,0.997,1740740000.0,280.0,280.0,40.411,21.786,Greece,COMMISSIONED,1981.0,Freshwater,Natural Draught Tower,2.22,1.81,0.54,0.01,-0.014,363.0,198.0,0.28,emissions_15_derived,0
-Fossil Oil,1524,,1.0,1348590.0,670.0,0.0,56.153,14.836,Sweden,DECOMMISSIONED,1969.0,Seawater,Once-through,132.48,0.91,,,,,,1.0,,0
 Fossil Oil,4730,0.002,1.0,3604260.0,670.0,335.0,56.153,14.836,Sweden,RESERVE,1971.0,Seawater,Once-through,132.48,0.91,0.196,0.009,-0.013,97.0,112.0,0.36,Class_derived,0
 Fossil Oil,2968,0.001,1.0,2261620.0,670.0,335.0,56.153,14.836,Sweden,RESERVE,1973.0,Seawater,Once-through,132.48,0.91,0.196,0.009,-0.013,97.0,112.0,0.36,Class_derived,0
 Fossil Hard coal,390453,0.448,0.995,474902000.0,212.0,100.0,52.436,16.989,Poland,COMMISSIONED,1991.0,Freshwater,Mechanical Draught Tower,2.22,1.81,0.485,0.009,-0.012,151.0,83.0,0.28,Class_derived,0
@@ -5602,9 +5554,6 @@ Fossil Hard coal,3607216,0.739,1.0,3147390000.0,557.5,557.5,36.98,-1.904,Spain,C
 Fossil Hard coal,3366461,0.684,1.0,2937330000.0,562.0,562.0,36.98,-1.904,Spain,COMMISSIONED,1997.0,Seawater,Once-through,137.59,0.95,0.28,0.011,-0.013,211.0,69.0,0.38,emissions_15_derived,0
 Wind Offshore,375292,0.467,0.71,0.0,269.0,129.0,53.184,0.498,United Kingdom,COMMISSIONED,,None,,0.0,0.0,0.054,0.014,-0.014,11894.0,60.0,1.0,,1
 Wind Offshore,415522,0.476,0.712,0.0,269.0,140.0,53.184,0.498,United Kingdom,COMMISSIONED,,None,,0.0,0.0,0.054,0.014,-0.014,11894.0,60.0,1.0,,1
-Hydro Pumped Storage,364350,0.78,0.401,0.0,,,,,,,,,,,,0.121,0.015,-0.015,60.0,60.0,1.0,,1
-Hydro Pumped Storage,303278,0.802,0.325,0.0,,,,,,,,,,,,0.121,0.015,-0.015,60.0,60.0,1.0,,1
-Hydro Pumped Storage,218341,0.761,0.246,0.0,,,,,,,,,,,,0.121,0.015,-0.015,60.0,60.0,1.0,,1
 Fossil Oil,1626,0.001,1.0,1332550.0,170.0,170.0,47.721,19.68,Hungary,COMMISSIONED,2001.0,Freshwater,Air Cooling,0.1,0.1,0.532,0.015,-0.015,60.0,60.0,0.34,Class_derived,0
 Nuclear,2010884,0.926,1.0,0.0,496.0,248.0,60.372,26.347,Finland,COMMISSIONED,1977.0,Seawater,Once-through,167.87,1.02,0.901,0.008,-0.01,94.0,116.0,1.0,,0
 Nuclear,2018114,0.929,1.0,0.0,496.0,248.0,60.372,26.347,Finland,COMMISSIONED,1977.0,Seawater,Once-through,167.87,1.02,0.901,0.008,-0.01,94.0,116.0,1.0,,0
@@ -5635,7 +5584,6 @@ Wind Onshore,155699,0.327,0.714,0.0,76.0,76.0,56.969,-2.486,United Kingdom,COMMI
 Fossil Gas,1078002,0.559,0.315,426142000.0,700.0,700.0,51.438,0.689,United Kingdom,COMMISSIONED,1995.0,Seawater,Mechanical Draught Tower,0.96,0.78,0.308,0.012,-0.014,152.0,76.0,0.52,OEM_derived,0
 Fossil Brown coal/Lignite,1428889,0.641,0.997,1889250000.0,255.0,255.0,37.418,22.108,Greece,COMMISSIONED,1991.0,Freshwater,Natural Draught Tower,2.22,1.81,0.54,0.01,-0.014,363.0,198.0,0.33,Class_derived,0
 Fossil Brown coal/Lignite,1093950,0.489,0.997,1446400000.0,256.0,256.0,37.416,22.067,Greece,COMMISSIONED,1991.0,Freshwater,Natural Draught Tower,2.22,1.81,0.54,0.01,-0.014,363.0,198.0,0.33,Class_derived,0
-Fossil Gas,1559062,0.211,0.997,568406000.0,,,,,,,,,,,,0.308,0.012,-0.014,152.0,76.0,0.55,OEM_derived,0
 Fossil Hard coal,2362955,0.484,1.0,2304300000.0,557.2,557.2,43.078,-8.407,Spain,COMMISSIONED,1980.0,Freshwater,Natural Draught Tower,2.22,1.81,0.28,0.011,-0.013,211.0,69.0,0.34,emissions_15_derived,0
 Fossil Brown coal/Lignite,1517233,0.601,0.997,1789190000.0,289.0,289.0,40.814,21.598,Greece,COMMISSIONED,2003.0,Freshwater,Natural Draught Tower,2.4,1.87,0.54,0.01,-0.014,363.0,198.0,0.37,emissions_15_derived,0
 Hydro Run-of-river and poundage,1154951,0.705,1.0,0.0,187.0,187.0,48.223,15.304,Austria,COMMISSIONED,1982.0,Freshwater,,,,0.185,0.013,-0.013,36.0,37.0,1.0,,1
@@ -6085,7 +6033,6 @@ Hydro Pumped Storage,69251,0.07,1.0,0.0,113.0,113.0,41.469,14.145,Italy,COMMISSI
 Hydro Run-of-river and poundage,635816,0.6,1.0,0.0,121.0,121.0,46.493,11.334,Italy,COMMISSIONED,,Freshwater,,,,0.2,0.015,-0.015,307.0,63.0,1.0,,1
 Fossil Gas,1322120,0.202,1.0,521729000.0,748.0,748.0,45.512,9.51,Italy,COMMISSIONED,2003.0,Freshwater,Air Cooling,0.01,0.01,0.308,0.012,-0.014,152.0,76.0,0.52,OEM_derived,0
 Fossil Gas,1957820,0.284,1.0,772586000.0,787.0,787.0,41.58,12.657,Italy,COMMISSIONED,2012.0,Freshwater,Air Cooling,0.01,0.01,0.308,0.012,-0.014,152.0,76.0,0.52,emissions_16_derived,0
-Fossil Gas,1890338,0.287,1.0,745956000.0,,,,,,,,,,,,0.195,0.011,-0.012,60.0,60.0,0.52,OEM_derived,0
 Hydro Water Reservoir,415737,0.216,1.0,0.0,220.0,220.0,45.942,10.64,Italy,COMMISSIONED,,Freshwater,,,,0.124,0.014,-0.014,60.0,60.0,1.0,,1
 Fossil Gas,1494141,0.416,1.0,578486000.0,821.0,410.0,39.102,17.116,Italy,COMMISSIONED,2010.0,Freshwater,Air Cooling,0.01,0.01,0.308,0.012,-0.014,152.0,76.0,0.53,OEM_derived,0
 Fossil Gas,782861,0.217,1.0,303100000.0,821.0,411.0,39.102,17.116,Italy,COMMISSIONED,2010.0,Freshwater,Air Cooling,0.01,0.01,0.308,0.012,-0.014,152.0,76.0,0.53,OEM_derived,0
